@@ -1,5 +1,1 @@
-# Experimenting on data analysis algorithms. 
-
-Projects so far:
-  - Linear Regression (PSE)
-  - LSTM (PSE)
+Some experiments on data analysis programs, mostly for NBA or PSE
